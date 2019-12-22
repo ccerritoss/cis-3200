@@ -11,6 +11,6 @@ Team members for **Term Project Group 1**:
 
 
 ### Results
-Presentation: 111/100
-Term Paper: 100/100
-Tutorial: 85/100
+- Presentation: 111/100
+- Term Paper: 100/100 :100:
+- Tutorial: 85/100
