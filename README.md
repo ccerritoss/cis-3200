@@ -7,3 +7,10 @@ Team members for **Term Project Group 1**:
 - Christopher Cerritos
 - Tam Do
 - Mike Avelar
+
+
+
+### Results
+Presentation: 111/100
+Term Paper: 100/100
+Tutorial: 85/100
